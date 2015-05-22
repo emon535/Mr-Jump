@@ -1,0 +1,102 @@
+fileFormatVersion: 2
+guid: 828e783edf4be6e47b9b5d9517eb712c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: LeftHand
+    21300002: Body
+    21300004: RightHand
+    21300006: LeftLeg
+    21300008: RightLeg
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 160
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: LeftHand
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 316
+        width: 57
+        height: 80
+      alignment: 9
+      pivot: {x: .80069077, y: .857991815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Body
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 280
+        width: 120
+        height: 195
+      alignment: 9
+      pivot: {x: .651474774, y: .0582593083}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RightHand
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 315
+        width: 58
+        height: 80
+      alignment: 9
+      pivot: {x: .274359345, y: .81347543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: LeftLeg
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 174
+        width: 54
+        height: 84
+      alignment: 9
+      pivot: {x: .682882249, y: .816934109}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: RightLeg
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 160
+        width: 50
+        height: 86
+      alignment: 9
+      pivot: {x: .378671885, y: .790514767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: Hero
+  userData: 
